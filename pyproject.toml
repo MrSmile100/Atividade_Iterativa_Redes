@@ -1,7 +1,7 @@
 [project]
 name = "atividade-iterativa-redes"
 version = "0.1.0"
-description = "Add your description here"
+description = "Sistema de rastreamento de entregas via HTTP - prova de conceito"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = ["flask"]
